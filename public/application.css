@@ -1,0 +1,18 @@
+form#hit_form {
+  float: left;
+  margin-right: 20px;
+}
+
+form#stay_form {
+  float: left;
+}
+
+img.card_image {
+  margin: 10px 10px 10px 0px;
+}
+
+img.card_image {
+  padding: 1px;
+  border: 1px solid #021a40;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
